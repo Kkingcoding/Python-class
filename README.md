@@ -1,5 +1,5 @@
 # Python-class
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-%20%20%20%20%20%20%20%20%20%20%20%20Basic, Practice, Homework, Quiz
+Basic, Practice, Homework, Quiz
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
